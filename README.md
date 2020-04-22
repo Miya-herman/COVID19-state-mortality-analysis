@@ -1,8 +1,6 @@
 # COVID19-state-mortality-analysis
 
-Business Question: Which US counties are the most vulnerable to the pandemic based on population characteristics and hospital bed availability?
-
-We want to better understand which counties might be most vulnerable to a fast-growing infection rate so that those counties might be able to simultaneously implement social distancing policies that allow people to stay at home and still have access to essential items such as food and healthcare and prepare healthcare workers and medical supplies for an influx of patients.
+Business Question: Which US counties are the most vulnerable to the pandemic based on population characteristics and hospital bed availability? We hope to obtain a clearer picture of what factors contribute to the vulnerability of a population so that the appropriate policy actions can be taken and resources can be distributed to the counties that need them the most. 
 
 Data Analysis and vizualization:
 
